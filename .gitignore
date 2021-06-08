@@ -1,5 +1,5 @@
-/lab/data/
-/images/
+/lab/data/*
+!/lab/data/images
 /homework_and_lab/
 /.ipynb_checkpoints/
 /.vscode/
